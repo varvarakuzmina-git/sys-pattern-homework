@@ -7,7 +7,7 @@
 
 *Ключи элементов:*
 - CPU: `system.cpu.util[]`
-- RAM: `vm.memory.size[used]`
+- RAM: vm.memory.size[pavailable] (позже заменен на vm.memory.size[used] для совместимости с шаблоном OS Linux)
 
 ![Задание 1](img/task1.png)
 
